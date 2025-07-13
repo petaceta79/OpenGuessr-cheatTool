@@ -12,7 +12,7 @@ Herramienta para obtener ubicación exacta en OpenGuessr (uso ético cuestionabl
 - [Uso](#-uso)  
 - [Ejemplos](#-ejemplos)  
 
-## ⚠️ Disclaimer Legal  
+## Disclaimer Legal  
 
 > **Aviso importante:** Este software se proporciona únicamente con **fines educativos y de investigación**. Su uso en entornos competitivos, exámenes o sistemas productivos sin autorización expresa constituye una violación de los términos de servicio de la mayoría de plataformas y puede acarrear consecuencias legales.
 
@@ -34,3 +34,6 @@ Este proyecto se distribuye bajo licencia [MIT](LICENSE) y debe utilizarse **exc
 **ÚSELO BAJO SU PROPIO RIESGO Y RESPONSABILIDAD**
 
 💡 **Recuerda:** La verdadera diversión está en jugar limpiamente. Este proyecto existe para aprender, no para ganar ventajas.
+
+
+🚧 *Documentación en construcción - Próximamente más detalles* 🚧
