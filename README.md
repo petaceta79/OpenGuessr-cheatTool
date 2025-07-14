@@ -4,7 +4,7 @@ Herramienta para obtener ubicación exacta en OpenGuessr (uso ético cuestionabl
 ---
 
 ## Índice  
-- [Disclaimer Legal](#️-disclaimer-legal)  
+- [Disclaimer Legal](## Disclaimer Legal)  
 - [Objetivo](#-objetivo)  
 - [Proceso](#️-proceso)  
 - [Requerimientos](#-requerimientos)  
