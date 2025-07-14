@@ -74,7 +74,7 @@ python openGuessrCheat.py
 3. Se abrirá automáticamente una ventana de Chrome con el sitio de OpenGuessr.
 4. Navega y juega normalmente. Siempre que estés en una vista de Street View con el mapa visible, puedes presionar **Enter** en la terminal.
 5. El script detectará las coordenadas desde el iframe y abrirá una nueva pestaña en tu navegador con la ubicación exacta en Google Maps.
-6. Para salir del programa, presiona **Control + C** en la terminal o simplemente cierra la ventana del navegador.
+6. Para salir del programa cierra todas las ventanas (cmd y navegador).
 
 > Nota: Chrome bloquea las ventanas emergentes, deberás permitirlas.
 
