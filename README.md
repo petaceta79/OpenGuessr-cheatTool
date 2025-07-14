@@ -43,7 +43,7 @@ Desarrollar la habilidad para investigar y comprender código HTML y JavaScript 
 Una vez dentro de la partida, utilizando las herramientas de desarrollo de Chrome, decidí buscar si se utilizaba la API de Google Maps u otro método para cargar la vista Street View. Descubrí que, en uno de los iframes donde se incrusta Street View, las coordenadas iniciales aparecen directamente en la URL del atributo `src`.
 
 ```html
-<iframe id="PanoramaIframe" referrerpolicy="no-referrer-when-downgrade" frameborder="0" src="https://www.google.com/maps/embed/v1/streetview?location=41.25349938040411,-83.57514848812019&key=AIzaSyAHt3QJRBDISRaWaqblQl2VwjWiHvjpgIs&fov=90" class="svelte-3nuhic" style="filter: none;"></iframe>
+<iframe id="PanoramaIframe" referrerpolicy="no-referrer-when-downgrade" frameborder="0" src="https://www.google.com/maps/embed/v1/streetview?location=41.25349938040411,-83.57514848812019&key=X&fov=90" class="svelte-3nuhic" style="filter: none;"></iframe>
 ```
 Con esta información, el siguiente paso fue obtener el HTML mediante Selenium para automatizar el proceso y hacerlo interactivo. A través de una función personalizada, se extraen las coordenadas (números) desde la URL del iframe.
 
