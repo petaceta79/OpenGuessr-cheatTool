@@ -7,10 +7,9 @@ Herramienta para obtener ubicación exacta en OpenGuessr (uso ético cuestionabl
 - [Disclaimer Legal](#️-disclaimer-legal)  
 - [Objetivo](#-objetivo)  
 - [Proceso](#️-proceso)  
-- [Resultado](#-resultado)  
 - [Requerimientos](#-requerimientos)  
 - [Uso](#-uso)  
-- [Ejemplos](#-ejemplos)  
+- [Resultado](#-resultado)  
 
 ## Disclaimer Legal  
 
@@ -34,6 +33,32 @@ Este proyecto se distribuye bajo licencia [MIT](LICENSE) y debe utilizarse **exc
 **ÚSELO BAJO SU PROPIO RIESGO Y RESPONSABILIDAD**
 
 💡 **Recuerda:** La verdadera diversión está en jugar limpiamente. Este proyecto existe para aprender, no para ganar ventajas.
+
+## Objetivo
+
+Desarrollar la habilidad para investigar y comprender código HTML y JavaScript ajeno, utilizando las herramientas de desarrollo del navegador (DevTools). Además, adquirir la capacidad de adaptarse a distintas situaciones y desarrollar software que analice entornos y se adapte a ellos.
+
+### Proceso
+
+Una vez dentro de la partida, utilizando las herramientas de desarrollo de Chrome, decidí buscar si se utilizaba la API de Google Maps u otro método para cargar la vista Street View. Descubrí que, en uno de los iframes donde se incrusta Street View, las coordenadas iniciales aparecen directamente en la URL del atributo `src`.
+
+```html
+<iframe id="PanoramaIframe" referrerpolicy="no-referrer-when-downgrade" frameborder="0" src="https://www.google.com/maps/embed/v1/streetview?location=41.25349938040411,-83.57514848812019&key=AIzaSyAHt3QJRBDISRaWaqblQl2VwjWiHvjpgIs&fov=90" class="svelte-3nuhic" style="filter: none;"></iframe>
+```
+Con esta información, el siguiente paso fue obtener el HTML mediante Selenium para automatizar el proceso y hacerlo interactivo. A través de una función personalizada, se extraen las coordenadas (números) desde la URL del iframe.
+
+Además, se utilizó la librería undetected_chromedriver para evitar que el navegador revele que está siendo controlado por un script, permitiendo que actúe como un navegador común y corriente.
+
+
+
+
+
+
+
+
+
+
+
 
 
 🚧 *Documentación en construcción - Próximamente más detalles* 🚧
