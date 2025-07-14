@@ -68,11 +68,10 @@ Además, se utilizó la librería undetected_chromedriver para evitar que el nav
 
 1. Asegúrate de tener Python y todas las dependencias instaladas.
 2. Ejecuta el script desde la terminal (CMD) con el comando `python`, `python3` o `py`, según tengas configurado tu entorno.
-
-   ```bash
-   python script.py
-   ```
-3. Se abrirá automáticamente una ventana de Chrome con el sitio de GeoGuessr.
+```bash
+python openGuessrCheat.py
+```
+3. Se abrirá automáticamente una ventana de Chrome con el sitio de OpenGuessr.
 4. Navega y juega normalmente. Siempre que estés en una vista de Street View con el mapa visible, puedes presionar **Enter** en la terminal.
 5. El script detectará las coordenadas desde el iframe y abrirá una nueva pestaña en tu navegador con la ubicación exacta en Google Maps.
 6. Para salir del programa, presiona **Control + C** en la terminal o simplemente cierra la ventana del navegador.
