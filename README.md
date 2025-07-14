@@ -79,12 +79,12 @@ python openGuessrCheat.py
 > Nota: Asegúrate de mantener abierta la terminal mientras juegas, ya que es desde ahí donde se activa el comando con Enter.
 
 ## Resultado
+Se incluyen capturas de pantalla en la carpeta correspondiente para ilustrar el funcionamiento del script en tiempo real.  
+En ellas se puede observar cómo se extraen las coordenadas desde GeoGuessr y cómo se abre automáticamente la ubicación en Google Maps.
+### Capturas
+![Captura 1](ejemplos/captura1.png)  
+![Captura 2](ejemplos/captura2.png)  
+![Captura 3](ejemplos/captura3.png)  
+![Captura 4](ejemplos/captura4.png)  
+![Captura 5](ejemplos/captura5.png)  
 
-
-
-
-
-
-
-
-🚧 *Documentación en construcción - Próximamente más detalles* 🚧
