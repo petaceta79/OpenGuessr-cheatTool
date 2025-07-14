@@ -4,12 +4,12 @@ Herramienta para obtener ubicación exacta en OpenGuessr (uso ético cuestionabl
 ---
 
 ## Índice  
-- [Disclaimer Legal](## Disclaimer Legal)  
-- [Objetivo](#-objetivo)  
-- [Proceso](#️-proceso)  
-- [Requerimientos](#-requerimientos)  
-- [Uso](#-uso)  
-- [Resultado](#-resultado)  
+- [Disclaimer Legal](#disclaimer-legal)  
+- [Objetivo](#objetivo)  
+- [Proceso](#proceso)  
+- [Requerimientos](#requerimientos)  
+- [Uso](#uso)  
+- [Resultado](#resultado)  
 
 ## Disclaimer Legal  
 
