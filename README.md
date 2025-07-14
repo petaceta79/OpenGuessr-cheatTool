@@ -78,7 +78,7 @@ python openGuessrCheat.py
 
 > Nota: Asegúrate de mantener abierta la terminal mientras juegas, ya que es desde ahí donde se activa el comando con Enter.
 
-
+## Resultado
 
 
 
