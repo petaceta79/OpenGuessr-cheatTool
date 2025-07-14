@@ -79,12 +79,11 @@ python openGuessrCheat.py
 > Nota: Chrome bloquea las ventanas emergentes, deberás permitirlas.
 
 ## Resultado
-Se incluyen capturas de pantalla en la carpeta correspondiente para ilustrar el funcionamiento del script en tiempo real.  
+Se incluyen capturas/video de pantalla en la carpeta correspondiente para ilustrar el funcionamiento del script en tiempo real.  
 En ellas se puede observar cómo se extraen las coordenadas desde GeoGuessr y cómo se abre automáticamente la ubicación en Google Maps.
 ### Capturas
-![Captura 1](ejemplos/captura1.png)  
-![Captura 2](ejemplos/captura2.png)  
-![Captura 3](ejemplos/captura3.png)  
-![Captura 4](ejemplos/captura4.png)  
-![Captura 5](ejemplos/captura5.png)  
+![Captura 1](ejemplos/Captura1.png)  
+![Captura 2](ejemplos/Captura2.png)  
+![Captura 3](ejemplos/Captura3.png)  
+![Captura 4](ejemplos/video1.gif)  
 
