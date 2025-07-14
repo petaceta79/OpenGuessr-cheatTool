@@ -76,7 +76,7 @@ python openGuessrCheat.py
 5. El script detectará las coordenadas desde el iframe y abrirá una nueva pestaña en tu navegador con la ubicación exacta en Google Maps.
 6. Para salir del programa, presiona **Control + C** en la terminal o simplemente cierra la ventana del navegador.
 
-> Nota: Asegúrate de mantener abierta la terminal mientras juegas, ya que es desde ahí donde se activa el comando con Enter.
+> Nota: Chrome bloquea las ventanas emergentes, deberás permitirlas.
 
 ## Resultado
 Se incluyen capturas de pantalla en la carpeta correspondiente para ilustrar el funcionamiento del script en tiempo real.  
