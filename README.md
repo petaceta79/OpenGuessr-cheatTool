@@ -64,7 +64,7 @@ Además, se utilizó la librería undetected_chromedriver para evitar que el nav
 | `re` (built-in)          | Manejo de expresiones regulares.           | No requiere instalación                  |
 | `time` (built-in)        | Manejo de tiempos y retardos.                                               | No requiere instalación                  |
 
-### Uso
+## Uso
 
 1. Asegúrate de tener Python y todas las dependencias instaladas.
 2. Ejecuta el script desde la terminal (CMD) con el comando `python`, `python3` o `py`, según tengas configurado tu entorno.
